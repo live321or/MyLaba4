@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="widget_name">Количество дней до выбранной даты</string>
+    <string name="widget_date">Выбранная дата:</string>
+    <string name="widget_text">Осталось дней:</string>
+    <string name="date_default">дата не установлена</string>
+</resources>
